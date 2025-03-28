@@ -1,43 +1,45 @@
-#  My Contact Book 
+# 📚 My Contact Book
 
-This is a simple and functional **Contact Book** web application developed as part of MTM6407 - Web Development IV (Week 10 Assignment). The application is built using **Vue 3**, **Vue Router 4**, **Vite**, and **Local Storage**.
-
----
-
-## ✨ Features
-
-- View all contacts sorted alphabetically by last name.
-- Search contacts by first name or last name.
-- View contact details.
-- Add new contact (first name, last name, email, and more).
-- Edit existing contact information.
-- Delete a contact.
-- Data is stored in **local storage**.
-- Easy to use and fully responsive.
+This project is a user-friendly and fully functional **Contact Book** web application, created for the **MTM6407 - Web Development IV** (Week 10 Assignment). It helps users manage their contacts with ease. The application is powered by **Vue 3**, **Vue Router 4**, **Vite**, and browser **Local Storage**.
 
 ---
 
-## ⚙ Technologies Used
+## 🌟 Application Features
 
-- Vue 3
+- Displays all contacts, sorted alphabetically by **last name**.
+- Search functionality to find contacts by **first name** or **last name**.
+- Detailed view for individual contact information.
+- Ability to add new contacts (including first name, last name, email, etc.).
+- Edit existing contact details.
+- Delete contacts when no longer needed.
+- All contact data is securely stored using **Local Storage**.
+- Fully responsive design with a simple and clear interface.
+
+---
+
+## 🛠️ Technologies Used
+
+- Vue 3 (Composition API)
 - Vue Router 4
-- Vite
+- Vite (for development and build)
 - Local Storage API
-- CSS 
+- CSS (for styling)
 
 ---
 
-## 🚀 Project Setup
+## ▶️ How to Run Locally
+
+Follow these steps to get the project up and running on your local machine:
 
 ```bash
-# Clone the repository
-git clone [https://github.com/your-username/contact-book.git](https://github.com/Kritika883/contactbookkritika/)
+# Clone this repository
+git clone https://github.com/Kritika883/My-contact-book.git
 
-# Navigate to project directory
-cd contactbookkritika
+# Change directory to project folder
+cd My-contact-book
 
-# Install dependencies
+# Install all required dependencies
 npm install
 
-# Run the development server
+# Start the development server
 npm run dev
