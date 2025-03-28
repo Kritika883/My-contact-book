@@ -1,4 +1,4 @@
-# 📚 Contact Book - Vue 3 Web Application
+#  My Contact Book 
 
 This is a simple and functional **Contact Book** web application developed as part of MTM6407 - Web Development IV (Week 10 Assignment). The application is built using **Vue 3**, **Vue Router 4**, **Vite**, and **Local Storage**.
 
